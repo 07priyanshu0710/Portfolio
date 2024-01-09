@@ -227,7 +227,7 @@ export const Bio = {
       id: 0,
       img: "https://www.skit.ac.in/images/headers/skit_logo.png",
       school: "Swami Keshvanand Institute of Technology, Jaipur",
-      date: "Oct 2021 - Sep 2024",
+      date: "Oct 2020 - Sep 2024",
       grade: "9.58 CGPA",
       desc: "I am currently pursuing a Bachelor's degree in Computer Science branch at Swami Keshvanand Institute of Technology, Jaipur. I have completed 8 semesters and have a CGPA of 9.58. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at SKIT, where I am learning and working on exciting projects with a team of talented developers.",
       degree: "Bachelor of Technology - BTech, Computer Science",
